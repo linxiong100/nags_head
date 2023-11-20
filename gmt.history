@@ -1,0 +1,10 @@
+# GMT 6 Session common arguments shelf
+BEGIN GMT 6.4.0
+B	xa10f5+lCross Shore [m]ya2f1+lElevation [m, NAVD88]WSne
+J	X
+JX	X3.5i/2.5i
+R	0/60/1/10
+X	a1.5c
+Y	a12c
+@L	5
+END
